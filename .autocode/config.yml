@@ -1,0 +1,7 @@
+name: mkzaker/officegis
+author:
+  name: Mohammad Kazem Zaker
+  email: mk.zaker@gmail.com
+  url: 'http://mk.zaker.ir'
+copyright: 2015 Mohammad Kazem Zaker
+description: WebGIS with ExtJS and ESRI JAVASCRIPT API
